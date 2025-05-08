@@ -350,6 +350,12 @@ body {
     align-items: center;
     flex-direction: column;
 }
+.details {
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    flex-direction: column;
+}
 /* Contact Section */
 .contact-section {
     padding: 8rem 5% 0 5%;
