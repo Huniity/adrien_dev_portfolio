@@ -380,6 +380,11 @@ body {
     .hero h1 {
         font-size: 3.5rem;
     }
+    .skill-card img {
+        margin: 25px;
+        display: flex;
+        justify-self: center;
+    }
 }
 
 @media (max-width: 768px) {
@@ -393,6 +398,11 @@ body {
     
     .projects-grid {
         grid-template-columns: 1fr;
+    }
+    .skill-card img {
+        margin: 25px;
+        display: flex;
+        justify-self: center;
     }
 }
 @media (max-width: 480px){
@@ -416,5 +426,10 @@ body {
     }
     .project-tgs-name {
         display: none;
+    }
+    .skill-card img {
+        margin: 25px;
+        display: flex;
+        justify-self: center;
     }
 }
