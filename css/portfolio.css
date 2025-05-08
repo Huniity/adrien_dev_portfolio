@@ -344,10 +344,11 @@ body {
     transform: scaleX(1);
 }
 .skill-card img {
-    margin: 25px 0 25px 200px;
+    margin: 25px;
     display: flex;
     justify-self: center;
     align-items: center;
+    flex-direction: column;
 }
 /* Contact Section */
 .contact-section {
