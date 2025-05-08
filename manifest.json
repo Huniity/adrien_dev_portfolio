@@ -1,0 +1,19 @@
+{
+    "name": "Adrien Dejonc | WEB-DEV Portfolio",
+    "short_name": "A.D DEV - Portfolio",
+    "theme_color": "#0A0A0F",
+    "background_color": "#0A0A0F",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/adrien_dev_portfolio/index.html",
+    "description": "A quick overview of my work as a web developer student.",
+    "lang": "en-US",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "images/favicon.ico",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
