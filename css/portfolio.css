@@ -347,6 +347,7 @@ body {
     margin: 25px;
     display: flex;
     justify-self: center;
+    align-items: center;
 }
 /* Contact Section */
 .contact-section {
