@@ -344,7 +344,7 @@ body {
     transform: scaleX(1);
 }
 .skill-card img {
-    margin: 25px;
+    margin: 25px 0 25px 75px;
     display: flex;
     justify-self: center;
     align-items: center;
