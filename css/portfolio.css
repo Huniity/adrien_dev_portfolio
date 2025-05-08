@@ -343,7 +343,11 @@ body {
 .skill-card:hover::before {
     transform: scaleX(1);
 }
-
+.skill-card img {
+    margin: 25px;
+    display: flex;
+    justify-self: center;
+}
 /* Contact Section */
 .contact-section {
     padding: 8rem 5% 0 5%;
